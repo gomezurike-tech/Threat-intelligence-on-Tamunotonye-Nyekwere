@@ -1,11 +1,117 @@
-# Threat Intelligence & OSINT CTF: Claim Verification Report24-hour Threat Intelligence and Open-Source Intelligence (OSINT) challenge. The task was to investigate a public claim using OSINT methodology and determine whether it is supported, unsupported, or inconclusive based on available evidence, not to prove or disprove it outright. 
-The Claim"Nyekwere TamunoTonye Tom was once nominated as a judge for an Indomie Dance Competition."
-## ObjectiveApply structured OSINT technique to a real, low-profile public figure and reach a defensible conclusion, backed by documented sources, collected evidence, and a validation pass on every source used.##
-MethodologyThe investigation was broken into three core tasks and one bonus challenge:
-1. **Source Identification** - identified and ranked eight public sources likely to contain relevant information, spanning social platforms, professional platforms, search engines, brand-official channels, and press.
-2. 2. **Evidence Collection** - reviewed each source directly, including two accounts checked while logged in to rule out access limits as an explanation for missing evidence, and recorded findings for all eight.
-3. **Source Validation** - scored every source against five standard OSINT criteria: Authority, Accuracy, Currency, Objectivity, and Corroboration.
-4. **Bonus Challenge** - compiled a five-year timeline of the subject's publicly documented professional activity, covering training events, campaign participation, and media appearances.
-## ConclusionThe claim is assessed as **Unsupported**. No source directly disproves it, but across eight appropriately diverse and vetted sources, no corroborating evidence was found for the claim itself. A regional search did confirm that "Indomie Dance Competition" is a real, recurring event format in Nigeria, so the claim is structurally plausible, just unverified.
-## Contents- `OSINT_CTF_Report.docx` - full report covering all three tasks, the bonus timeline, and the final conclusion.
-## NotesThis investigation relied only on publicly accessible information. No private accounts, paywalled content, or non-public data were accessed at any point. Findings reflect the state of public information as of the investigation date and are subject to change if new information becomes available.
+Enterprise Intelligence Project: OSINT Investigation
+
+Overview
+
+This repository contains an Open Source Intelligence (OSINT) investigation conducted to verify the claim that Nyekwere TamunoTonye Tom once served as a judge for an Indomie Dance Competition.
+
+The investigation follows a structured intelligence methodology, relying solely on publicly available information to determine whether sufficient evidence exists to support, refute, or classify the claim as inconclusive.
+
+---
+
+Objective
+
+The primary objective of this investigation was to:
+
+- Identify relevant public information sources.
+- Collect and analyze evidence.
+- Evaluate the credibility of each source.
+- Determine whether the claim is supported by verifiable evidence.
+- Produce a professional threat intelligence style report.
+
+---
+
+Investigation Methodology
+
+The investigation followed four major stages:
+
+1. Source Identification
+   
+   - Facebook
+   - LinkedIn
+   - Telegram
+   - Search Engines
+   - Official Indomie Nigeria Website
+   - Instagram
+   - X (Twitter)
+   - Local News Sources
+
+2. Evidence Collection
+   
+   - Manual review of public profiles
+   - Search engine reconnaissance
+   - Cross-platform verification
+   - Official website review
+
+3. Source Validation
+   Each source was evaluated based on:
+   
+   - Accessibility
+   - Reliability
+   - Ownership
+   - Evidence quality
+   - Corroboration potential
+
+4. Conclusion
+   Evidence was assessed using standard OSINT principles to determine the confidence level of the claim.
+
+---
+
+Key Findings
+
+- Multiple public sources were examined.
+- No publicly available evidence confirmed the claim.
+- No evidence directly disproved the claim either.
+- Official sources do not publish judges for regional Indomie Dance Competitions.
+- The investigation concluded that the claim remains inconclusive based on available open-source evidence.
+
+---
+
+Skills Demonstrated
+
+- Open Source Intelligence (OSINT)
+- Threat Intelligence
+- Digital Investigation
+- Source Validation
+- Evidence Collection
+- Search Engine Intelligence
+- Social Media Intelligence (SOCMINT)
+- Critical Analysis
+- Intelligence Reporting
+- Documentation
+
+---
+
+Tools & Platforms
+
+- Google Search
+- Facebook
+- LinkedIn
+- Telegram
+- Instagram
+- X (Twitter)
+- Official Company Websites
+- Public News Sources
+
+---
+
+Repository Contents
+
+├── Report.docx
+├── README.md
+└── assets/
+
+---
+
+Disclaimer
+
+This investigation was conducted strictly using publicly available information. No private, restricted, or unauthorized data sources were accessed. The findings reflect only the evidence available during the time of investigation and may change if new public information becomes available.
+
+---
+
+Author
+
+Chimebeoso Godsent Omezurike
+
+Cybersecurity Student | OSINT Researcher | Threat Intelligence Enthusiast
+
+Email: ojafolayan@gmail.com
