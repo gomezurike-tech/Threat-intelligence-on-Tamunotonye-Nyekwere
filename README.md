@@ -1,4 +1,4 @@
-# Threat Intelligence & OSINT CTF: Claim Verification Report24-hour Threat Intelligence and Open-Source Intelligence (OSINT) challenge. The task was to investigate a public claim using OSINT methodology and determine whether it is supported, unsupported, or inconclusive based on available evidence, not to prove or disprove it outright.## 
+# Threat Intelligence & OSINT CTF: Claim Verification Report24-hour Threat Intelligence and Open-Source Intelligence (OSINT) challenge. The task was to investigate a public claim using OSINT methodology and determine whether it is supported, unsupported, or inconclusive based on available evidence, not to prove or disprove it outright. 
 The Claim"Nyekwere TamunoTonye Tom was once nominated as a judge for an Indomie Dance Competition."
 ## ObjectiveApply structured OSINT technique to a real, low-profile public figure and reach a defensible conclusion, backed by documented sources, collected evidence, and a validation pass on every source used.##
 MethodologyThe investigation was broken into three core tasks and one bonus challenge:
