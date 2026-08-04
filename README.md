@@ -114,4 +114,4 @@ Chimebeoso Godsent Omezurike
 
 Cybersecurity Student | OSINT Researcher | Threat Intelligence Enthusiast
 
-Email: ojafolayan@gmail.com
+Email: gomezurike@gmail.com
